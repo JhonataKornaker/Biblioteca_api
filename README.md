@@ -9,6 +9,7 @@ Desenvolvimento de Plano de Testes de software da api Biblioteca.
 git clone https://github.com/JhonataKornaker/Biblioteca_api.git
 cd biblioteca_api
 pip install -r requirements.txt
+pytest
 
 ```
 
