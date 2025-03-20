@@ -1,3 +1,6 @@
 .pytest_cache
 assets
 report.html
+**/__pycache__/
+biblioteca/__pycache__/
+.benchmarks/
